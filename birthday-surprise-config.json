@@ -1,0 +1,123 @@
+{
+  "assets": {
+    "photos": [
+      {
+        "name": "S.jpg",
+        "fileName": "S.jpg"
+      },
+      {
+        "name": "OO1.jpg",
+        "fileName": "OO1.jpg"
+      },
+      {
+        "name": "OO.jpg",
+        "fileName": "OO.jpg"
+      },
+      {
+        "name": "SS.jpg",
+        "fileName": "SS.jpg"
+      },
+      {
+        "name": "SS2.jpg",
+        "fileName": "SS2.jpg"
+      },
+      {
+        "name": "SS1.jpg",
+        "fileName": "SS1.jpg"
+      },
+      {
+        "name": "SS3.jpg",
+        "fileName": "SS3.jpg"
+      }
+    ],
+    "sceneImages": {},
+    "audioData": "",
+    "audioName": "Oursong",
+    "audioFileName": "Oursong.mp3"
+  },
+  "recipient": "Sujitha Siva",
+  "sender": "your husband",
+  "age": "27",
+  "birthday": "2026-12-14",
+  "birthdayTime": "00:00",
+  "subtitle": "For being wonderfully you. A little party, made just for you.",
+  "theme": "pink",
+  "fontStyle": "serif",
+  "pin": "",
+  "scenes": [
+    {
+      "enabled": true,
+      "title": "Birthday party",
+      "subtitle": "For being wonderfully you. A little party, made just for you.",
+      "message": "",
+      "emoji": "🎂",
+      "dateBadge": "A LITTLE CELEBRATION"
+    },
+    {
+      "enabled": true,
+      "title": "A letter for you",
+      "subtitle": "OPEN THE ENVELOPE",
+      "message": "Dear {recipient},\n\nHappy birthday! I hope this year brings you a thousand reasons to smile. You make ordinary moments feel special, and I'm so grateful you're in my life.\n\nWith love,\n{sender}",
+      "emoji": "💌"
+    },
+    {
+      "enabled": true,
+      "title": "What I love about you",
+      "subtitle": "A LITTLE GAME",
+      "message": "Your smile makes every day better|You make people feel seen|You are wonderfully you|Even your small eyesight is enough to flat me|Only your smile is enough for me🥰|Azhagieeee 😍💋|My chellakutty 😘🥰",
+      "emoji": "🕹️"
+    },
+    {
+      "enabled": false,
+      "title": "Our story",
+      "subtitle": "CHAPTER BY CHAPTER",
+      "message": "Some of my favorite memories start with you. Here's to every chapter we've shared, and all the ones still waiting for us.",
+      "emoji": "📖",
+      "extra": "The beginning"
+    },
+    {
+      "enabled": true,
+      "title": "Wishes for your new year",
+      "subtitle": "MAKE A WISH",
+      "message": "May your year be full of joy|May your dreams find their way to you|May you feel loved every day|May you find adventure and peace| Maybe you'll see Kutty Suji or Kutty Siva for your next B'day 💖",
+      "emoji": "🏺"
+    },
+    {
+      "enabled": true,
+      "title": "Our moments",
+      "subtitle": "SAY CHEESE!",
+      "message": "Your favorite memories belong here.",
+      "emoji": "📸"
+    },
+    {
+      "enabled": false,
+      "title": "Our places",
+      "subtitle": "WHERE WE HAVE BEEN",
+      "message": "A place that will always mean something to us.",
+      "emoji": "🗺️",
+      "extra": "Our favorite place"
+    },
+    {
+      "enabled": true,
+      "title": "Our song",
+      "subtitle": "PRESS PLAY",
+      "message": "A little soundtrack for your day",
+      "emoji": "🎵",
+      "extra": "Our special song"
+    },
+    {
+      "enabled": true,
+      "title": "Blow out the candles",
+      "subtitle": "MAKE A WISH",
+      "message": "Make a wish!",
+      "emoji": "🎂"
+    },
+    {
+      "enabled": true,
+      "title": "Happy birthday di my chella pondati💖",
+      "subtitle": "WISH MADE",
+      "message": "With all my love, {sender}",
+      "emoji": "🎉"
+    }
+  ]
+}
